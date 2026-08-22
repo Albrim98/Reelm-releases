@@ -1,5 +1,5 @@
 {
-  "version": "0.2.328",
+  "version": "0.2.329",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Back now behaves the same everywhere in the app. It remembers the path you actually took and returns you to the previous screen instead of jumping to the home screen. Switching between Movies, Series and Anime is remembered too, so Back from a title returns to the section you were browsing.\n\nEpisodes are their own step now: leaving the player returns you to the episode you were watching with its sources still listed, rather than dropping you at the top of the series. Settings and Account step back one level at a time, and the on-screen back arrow does exactly what the remote's Back button does.\n\nDropdowns now close on Back instead of leaving the page, and the D-pad moves through their options properly.\n\nFixes a bug where one press of the remote's Back button was counted twice on some TV boxes, which made Back skip a screen and look like it jumped straight to the home screen."
+  "notes": "New Reelm app icon throughout — the launcher icon, the banner on the TV home row, the icon in Settings and the mark in the app itself all use the new artwork.\n\nAlso includes the navigation rework from the previous update: Back remembers the path you actually took and returns you to the previous screen instead of jumping to the home screen."
 }
