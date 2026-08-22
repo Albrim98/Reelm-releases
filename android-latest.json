@@ -1,5 +1,5 @@
 {
-  "version": "0.2.329",
+  "version": "0.2.330",
   "url": "https://github.com/Albrim98/openstream-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "New Reelm app icon throughout — the launcher icon, the banner on the TV home row, the icon in Settings and the mark in the app itself all use the new artwork.\n\nAlso includes the navigation rework from the previous update: Back remembers the path you actually took and returns you to the previous screen instead of jumping to the home screen."
+  "notes": "Back now works the same way everywhere in the app. It remembers the path you actually took and returns you to the previous screen instead of jumping to the home screen — across the Movies/Series/Anime sections, Settings, title pages and the stream picker alike. Leaving the player returns you to the episode you were watching, with its sources still listed.\n\nNew Reelm app icon throughout — the launcher icon, the banner on the TV home row, and the mark inside the app.\n\nDropdowns are fixed for the remote: pressing up or down while a dropdown is highlighted now moves to the next control instead of opening it. Only OK opens it. Back closes it and returns you to the control."
 }
