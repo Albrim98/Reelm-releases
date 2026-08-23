@@ -1,5 +1,5 @@
 {
-  "version": "0.2.332",
+  "version": "0.2.333",
   "url": "https://github.com/Albrim98/Reelm-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Opening a series or anime from Continue Watching now behaves like any other episode. Pressing OK on the resume episode collapses its stream list instead of leaving the page, and pressing OK again re-opens it. The episode you came back for is focused and scrolled into view, and focus stays on it as you open and close the list.\n\nSearch results, My List, Continue Watching and the browse grids all use the same poster size as the home rows — search posters were noticeably larger than everything else.\n\nFixed D-pad navigation in search results: left and right now stay within the row of results instead of jumping up into the Movies/Series/Anime filters and changing the category."
+  "notes": "Sharper artwork everywhere. Reelm now requests a poster size that matches how big the artwork is actually drawn, instead of always taking the smallest one the metadata provider offers. Posters on the home screen, search, My List, Continue Watching and title pages are noticeably crisper, and the app automatically asks for higher-resolution art on a 4K panel.\n\nThe banner on the title page was the worst case — it was loading a 480x270 image into a box over 1100 pixels wide. It now loads the full-size artwork.\n\nStream cards show the addon's star rating next to the addon name again."
 }
