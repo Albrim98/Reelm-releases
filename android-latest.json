@@ -1,5 +1,0 @@
-{
-  "version": "0.2.340",
-  "url": "https://github.com/Albrim98/Reelm-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Fixes for the TV home screen.\n\nThe home could get stuck showing nothing but Continue Watching. If you left the home screen before its catalogs finished loading, or a load failed, the app remembered that empty result and never tried again for the rest of the session. It now refetches instead, so Movies, Series and Anime come back.\n\nYou can also reach the end of a row again. Moving right along a poster row or Continue Watching stopped at the last tile already on screen, so the rest of the row and its Show all button could not be reached with the remote. The row now scrolls all the way to the end and back.\n\nAlso in this build: auto-skip and next episode no longer wait five seconds, they happen immediately. Skip Intro and Skip Outro now work on normal TV series too, and the next episode keeps the same addon and release you were already watching."
-}
