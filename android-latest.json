@@ -1,0 +1,5 @@
+{
+  "version": "0.2.341",
+  "url": "https://github.com/Albrim98/Reelm-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
+  "notes": "The Movies, Series and Anime screens now have much more to browse.\n\nAlongside Genres and Continue Watching you now get Recommended for You, Recently Added, Top Rated and a few genre rows, built from whatever your installed addons actually serve. Nothing is invented: a row with nothing behind it is simply not shown, and Recommended for You only appears once you have watched enough for it to mean something. Rows load as you scroll toward them, so the first screen stays quick.\n\nReelm now opens on a startup screen with the logo instead of showing the interface while it is still filling in. It clears as soon as the first screen is actually ready.\n\nThe remote should feel lighter too. Moving up and down between rows does substantially less work per press, fewer posters are loaded at startup, and the posters just ahead of where you are moving are fetched before you reach them."
+}
