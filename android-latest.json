@@ -1,5 +1,5 @@
 {
-  "version": "0.2.351",
+  "version": "0.2.352",
   "url": "https://github.com/Albrim98/Reelm-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "SUBTITLES NO LONGER RESTART THE VIDEO. Turning on a subtitle from a subtitle addon used to throw away everything the player had buffered and load the video again from where you were, so every pick came with a pause and a spinner. The subtitle is now loaded on its own and the video keeps playing. If a subtitle file cannot be loaded that way, the player falls back to the old method automatically.\n\nTHE SUBTITLE LIST IS READY WHEN YOU OPEN IT. Subtitles from your addons are now looked up in the background as soon as the video starts, instead of only when you first open the Subtitles menu."
+  "notes": "NEW REELM LOGO. The app icon, the TV banner and the startup screen all use the new gold vinyl logo.\n\nUP NEXT IN CONTINUE WATCHING. When you finish an episode, its Continue Watching tile moves on to the next episode you have not watched yet, marked Up next. Finished movies now leave the row by themselves.\n\nREWATCHING KEEPS WATCHED. Playing an episode you already watched again no longer turns it back into Watching. It stays marked Watched and shows how far into the rewatch you are.\n\nA DEAD STREAM LEAVES NOTHING BEHIND. If a stream never starts playing, the title no longer shows up in Continue Watching because of it."
 }
