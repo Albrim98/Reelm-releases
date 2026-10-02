@@ -1,5 +1,5 @@
 {
-  "version": "0.2.353",
+  "version": "0.2.354",
   "url": "https://github.com/Albrim98/Reelm-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "THE FINAL REELM LOGO. The app icon, the TV banner and the startup screen all use the final logo, shown as large as each place allows.\n\nTEXT STAYS PUT. Text in the app can no longer be accidentally selected or dragged."
+  "notes": "MORE RELIABLE TORRENT PLAYBACK. The player now always knows which addon and stream a torrent came from, which helps it pick the right file in a season pack and carry your stream into the next episode."
 }
