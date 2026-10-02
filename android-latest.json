@@ -1,5 +1,5 @@
 {
-  "version": "0.2.354",
+  "version": "0.2.355",
   "url": "https://github.com/Albrim98/Reelm-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "MORE RELIABLE TORRENT PLAYBACK. The player now always knows which addon and stream a torrent came from, which helps it pick the right file in a season pack and carry your stream into the next episode."
+  "notes": "NEW STARTUP SCREEN. Reelm now opens on its own startup screen on every device, goes straight to Who is watching, and only loads the home for the profile you pick. Also fixed the next episode sometimes staying paused after autoplay."
 }
