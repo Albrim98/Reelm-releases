@@ -1,5 +1,5 @@
 {
-  "version": "0.2.355",
+  "version": "0.2.356",
   "url": "https://github.com/Albrim98/Reelm-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "NEW STARTUP SCREEN. Reelm now opens on its own startup screen on every device, goes straight to Who is watching, and only loads the home for the profile you pick. Also fixed the next episode sometimes staying paused after autoplay."
+  "notes": "Behind-the-scenes improvements to how catalogs load. This update mainly brings new features to the desktop app: sort orders on Discover, an addon picker in the player and new sidebar icons."
 }
