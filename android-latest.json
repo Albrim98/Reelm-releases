@@ -1,5 +1,5 @@
 {
-  "version": "0.2.356",
+  "version": "0.2.362",
   "url": "https://github.com/Albrim98/Reelm-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Behind-the-scenes improvements to how catalogs load. This update mainly brings new features to the desktop app: sort orders on Discover, an addon picker in the player and new sidebar icons."
+  "notes": "Skip intro, credits and next episode are more accurate: two more timestamp databases, better anime release matching and split-season support. Skip and Next buttons now show whenever auto-skip or autoplay is off."
 }
