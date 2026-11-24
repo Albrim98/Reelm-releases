@@ -1,5 +1,5 @@
 {
-  "version": "0.2.362",
+  "version": "0.2.363",
   "url": "https://github.com/Albrim98/Reelm-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-  "notes": "Skip intro, credits and next episode are more accurate: two more timestamp databases, better anime release matching and split-season support. Skip and Next buttons now show whenever auto-skip or autoplay is off."
+  "notes": "Watch Together now has a chat on desktop. Search runs when you press Enter and shows Movies, Series and Anime separately. The app reopens on the profile you used last. A clear loading indicator while a stream opens, matching TV icons and a cleaner seek bar."
 }
