@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.364",
+    "version":  "0.2.365",
     "url":  "https://github.com/Albrim98/Reelm-releases/releases/download/v0.2.78/Reelm_0.2.78_androidtv.apk",
-    "notes":  "The player title and info line now have a dark outline so they are easier to read over bright scenes."
+    "notes":  "Watch Together: guests now follow the host into the next episode, the chat can be minimized, and the host can let guests pause and play."
 }
